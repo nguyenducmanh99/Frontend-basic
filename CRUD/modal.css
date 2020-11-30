@@ -1,0 +1,62 @@
+.modal-container {
+  padding: 16px;
+  background-color: white;
+}
+
+/* Full-width input fields */
+input[type=text], input[type=address] {
+    width: 100%;
+    padding: 10px;
+  
+    display: inline-block;
+    border: none;
+    background: #f1f1f1;
+  }
+
+  input[type=text], input[type=city] {
+    width: 100%;
+    padding: 10px;
+  
+    display: inline-block;
+    border: none;
+    background: #f1f1f1;
+  }
+
+  input[type=text], input[type=pincode] {
+    width: 100%;
+    padding: 10px;
+  
+    display: inline-block;
+    border: none;
+    background: #f1f1f1;
+  }
+
+  input[type=text], input[type=age] {
+    width: 100%;
+    padding: 10px;
+  
+    display: inline-block;
+    border: none;
+    background: #f1f1f1;
+  }
+  
+  input[type=text]:focus, input[type=address]:focus {
+    background-color: #ddd;
+    outline: none;
+  }
+  
+  input[type=text]:focus, input[type=city]:focus {
+    background-color: #ddd;
+    outline: none;
+  }
+  
+  input[type=text]:focus, input[type=pincode]:focus {
+    background-color: #ddd;
+    outline: none;
+  }
+  
+  input[type=text]:focus, input[type=age]:focus {
+    background-color: #ddd;
+    outline: none;
+  }
+  
